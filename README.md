@@ -21,6 +21,7 @@ Looking for a PFE or a research internship.
 
 ## Contact
 
+- Portfolio: [safouane-medjahri.vercel.app](https://safouane-medjahri.vercel.app)
 - Email: [ms.medjahri@esi-sba.dz](mailto:ms.medjahri@esi-sba.dz)
 - LinkedIn: [mohammed-safouane-medjahri](https://www.linkedin.com/in/mohammed-safouane-medjahri-0bb181296/)
 - Kaggle: [s4afou](https://www.kaggle.com/s4afou)
