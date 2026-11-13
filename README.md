@@ -1,17 +1,16 @@
 # Mohammed Safouane Medjahri
 
-AI and Data Science engineering student at ESI-SBA, Oran, Algeria. I build end to end
-machine learning: data preparation, modelling, evaluation, and the pipeline that keeps the
-model running once the notebook is closed.
+Final year AI and Data Science student at ESI-SBA in Oran, Algeria. I work in Python, mostly
+on computer vision and NLP, and I care about what happens after training: cleaning the data,
+checking the numbers, and getting the model to run outside a notebook.
 
-Final year, looking for a PFE or a research internship.
+Looking for a PFE or a research internship.
 
 ## What I work on
 
-- **Natural language and LLMs.** NLP, retrieval augmented generation, speech and language
-  pipelines.
-- **Deep learning and computer vision.** Detection, segmentation, recognition and generative
+- **Computer vision and deep learning.** Detection, segmentation, recognition and generative
   models.
+- **NLP and LLMs.** Retrieval augmented generation, speech and language pipelines.
 - **Data science.** Tabular modelling, feature engineering and evaluation.
 - **MLOps and systems.** Deployment, monitoring, retraining, Linux and parallel computing.
 
