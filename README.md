@@ -1,8 +1,7 @@
 # Mohammed Safouane Medjahri
 
-Final year AI and Data Science student at ESI-SBA in Oran, Algeria. I work in Python, mostly
-on computer vision and NLP, and I care about what happens after training: cleaning the data,
-checking the numbers, and getting the model to run outside a notebook.
+Final year AI and Data Science student at ESI-SBA. Based in Oran. I build small computer
+vision and NLP projects, mostly for problems I run into myself.
 
 Looking for a PFE or a research internship.
 
